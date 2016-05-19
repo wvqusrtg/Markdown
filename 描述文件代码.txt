@@ -1,3 +1,4 @@
+![mahua](mahua-logo.jpg)
 ![加菲猫](http://pic.cnblogs.com/avatar/614759/20150806155546.png)
 
 * [MaHua在线Markdown编辑器地址](http://mahua.jser.me/)
@@ -55,6 +56,3 @@
   sex：male
   company:Asiainfo
 ```
-
-#  好用的Markdown编辑器一览 
-## address:http://www.williamlong.info/archives/4319.html
