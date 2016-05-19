@@ -1,4 +1,3 @@
-![mahua](mahua-logo.jpg)
 ![加菲猫](http://pic.cnblogs.com/avatar/614759/20150806155546.png)
 
 * [MaHua在线Markdown编辑器地址](http://mahua.jser.me/)
